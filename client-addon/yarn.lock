@@ -3256,7 +3256,7 @@ event-pubsub@4.3.0:
 
 event-stream@~3.3.0:
   version "3.3.4"
-  resolved "http://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
+  resolved "https://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
   dependencies:
     duplexer "~0.1.1"
     from "~0"
@@ -3596,11 +3596,15 @@ flat-cache@^1.2.1:
     graceful-fs "^4.1.2"
     write "^0.2.1"
 
-flat@^4.0.0, flat@^4.1.0:
+flat@^4.0.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/flat/-/flat-4.1.0.tgz#090bec8b05e39cba309747f1d588f04dbaf98db2"
   dependencies:
     is-buffer "~2.0.3"
+
+flat@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/flat/-/flat-5.0.1.tgz#ed5f357d6c9e754d1fdc392b1d570426f8e013c2"
 
 flatten@^1.0.2:
   version "1.0.2"
